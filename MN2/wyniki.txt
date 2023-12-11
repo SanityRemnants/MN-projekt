@@ -1,0 +1,11 @@
+task B:
+19 iteracji
+czas Gauss-Seidl - 6.674812999999631s
+29 iteracji
+czas Jacobi - 12.359126299999843s
+task C:
+czas Gauss-Seidl - 35.209820500000205s
+czas Jacobi - 42.716964799999914s
+task D: 
+	norma dla LU:1.7013235316369697e-13
+	czas: 
